@@ -6,3 +6,4 @@
 /.settings
 /.buildpath
 /tests/data/dropboxcreds.config.php
+/tests/data/gcscreds.config.php
